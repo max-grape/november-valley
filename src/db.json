@@ -1,0 +1,70 @@
+{
+    "posts": {
+        "no_fate": {
+            "title": "No Fate",
+            "image": "no_fate.jpg",
+            "audio": [
+                "menu_low.mp3",
+                "waves.mp3"
+            ],
+            "text": "There is no fate but what we make for ourselves"
+        },
+        "terminator": {
+            "title": "Terminator",
+            "image": "terminator.jpg",
+            "audio": [
+                "terminator_theme.mp3",
+                "waves.mp3"
+            ]
+        },
+        "day_four": {
+            "title": "Day Four",
+            "image": "day_four.jpg",
+            "audio": [
+                "day_four.mp3"
+            ]
+        },
+        "shes_gone": {
+            "title": "She's Gone",
+            "image": "shes_gone.jpg",
+            "audio": [
+                "and_now_shes_gone.mp3"
+            ]
+        },
+        "public_enemy": {
+            "title": "Public Enemy",
+            "image": "public_enemy.jpg",
+            "audio": [
+                "jd_dies.mp3"
+            ]
+        },
+        "shame": {
+            "title": "Shame",
+            "image": "shame.jpg",
+            "audio": [
+                "e.mp3"
+            ]
+        },
+        "self_esteem": {
+            "title": "Self Esteem",
+            "image": "self_esteem.jpg",
+            "audio": [
+                "self_esteem_fund.mp3"
+            ]
+        },
+        "the_way": {
+            "title": "The Way",
+            "image": "the_way.jpg",
+            "audio": [
+                "the_way.mp3"
+            ]
+        },
+        "fly_away": {
+            "title": "Fly Away",
+            "image": "fly_away.jpg",
+            "audio": [
+                "fly_away_when_the_fog_settled_down.mp3"
+            ]
+        }
+    }
+}

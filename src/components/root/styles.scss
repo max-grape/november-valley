@@ -1,0 +1,24 @@
+@import "../../assets/fonts/abel/style.css";
+
+html {
+    font-family: 'Abel', sans-serif;
+    color: #dedede;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #1e1e1e;
+    background-image: url(../../assets/img/bg.png);
+    background-repeat: repeat;
+    background-position: top left;
+    background-attachment: fixed;
+    cursor: default;
+    user-select: none;
+    -o-user-select: none;
+    -ms-user-select: none;
+    -moz-user-select: none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+}
