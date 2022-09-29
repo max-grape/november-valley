@@ -1,7 +1,6 @@
 import React from "react";
 import { HashRouter, Switch, Route, useParams } from 'react-router-dom';
 
-import db from '../../db.json';
 import './styles.scss';
 
 import Main from '../main/component.js';
